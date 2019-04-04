@@ -10,6 +10,9 @@ use pocketmine\scheduler\TaskScheduler;
 use pocketmine\Server;
 use function rtrim;
 
+/**
+ * A lightweight alternative to the default PluginBase implementation.
+ */
 class Plugin implements PluginContract
 {
     /**
