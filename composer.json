@@ -1,0 +1,16 @@
+{
+    "name": "jacknoordhuis/lightweight-plugin",
+    "description": "A lightweight alternative to the default PluginBase implementation.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jack Noordhuis",
+            "email": "jackjnoordhuis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "jacknoordhuis\\lightweight\\plugin\\": "src/jacknoordhuis/lightweight/plugin"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+name: lightweight-plugin
+antigen: jacknoordhuis\lightweight\plugin
+api: 3.0.0
+version: 0.0.1
+author: Jack Noordhuis
